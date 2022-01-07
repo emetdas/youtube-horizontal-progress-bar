@@ -2,7 +2,7 @@
 
 ![progress-bar](Progress-Bar.png)
 
-[▶ video-link](https://link)
+[▶ video-link](https://youtu.be/eFuX9b125-Y)
 
 ## Code Snippets
 ----------
