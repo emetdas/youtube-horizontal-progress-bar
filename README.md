@@ -6,7 +6,6 @@
 
 ## Code Snippets
 ----------
-
 ### HTML5
 ```html
 <!DOCTYPE html>
