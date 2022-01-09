@@ -174,4 +174,3 @@ window.onload = function () {
   });
 };
 ```
-
